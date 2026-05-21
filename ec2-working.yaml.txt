@@ -1,5 +1,6 @@
 AWSTemplateFormatVersion: "2010-09-09"
 Description: Added EC2 instance configuration and networking settings
+# Description of what this change includes
 # Revision : 1.0
 # Date: 2026-05-21
 Parameters:
